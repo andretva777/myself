@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil no GitHub!
 
-Olá! Sou [Seu Nome], um(a) apaixonado(a) por tecnologia e desenvolvimento de software. Aqui você encontrará projetos que refletem meu aprendizado, criatividade e dedicação à programação. Sinta-se à vontade para explorar e contribuir!
+Olá! Sou André Baggio, um apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará projetos que refletem meu aprendizado, criatividade e dedicação à programação. Sinta-se à vontade para explorar e contribuir!
 
 ## Sobre mim
 
